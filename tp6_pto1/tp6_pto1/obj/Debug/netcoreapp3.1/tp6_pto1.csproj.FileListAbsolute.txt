@@ -1,0 +1,16 @@
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.exe
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.deps.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.runtimeconfig.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.runtimeconfig.dev.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\tp6_pto1.pdb
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\bin\Debug\netcoreapp3.1\Interop.VSLangProj2.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.csprojAssemblyReference.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\Interop.VSLangProj2.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.csproj.ResolveComReference.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.AssemblyInfoInputs.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.AssemblyInfo.cs
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.csproj.CoreCompileInputs.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.pdb
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto1\tp6_pto1\obj\Debug\netcoreapp3.1\tp6_pto1.genruntimeconfig.cache

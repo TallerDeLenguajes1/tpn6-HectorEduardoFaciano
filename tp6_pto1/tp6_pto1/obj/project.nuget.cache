@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwosLefkKH1K0VBtJlas2KVTAO5+JaUspOvRZdM2171RC/A4mKRkH0Tgs4VQ7wNeEPpaNafJPV6aYZQ+vPCSjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edu21\\Source\\Repos\\tpn6-HectorEduardoFaciano\\tp6_pto1\\tp6_pto1\\tp6_pto1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edu21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.exe
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.deps.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.runtimeconfig.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.runtimeconfig.dev.json
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\bin\Debug\netcoreapp3.1\tp6_pto2.pdb
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.csprojAssemblyReference.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.AssemblyInfoInputs.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.AssemblyInfo.cs
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.csproj.CoreCompileInputs.cache
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.dll
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.pdb
+C:\Users\edu21\source\repos\tpn6-HectorEduardoFaciano\tp6_pto2\obj\Debug\netcoreapp3.1\tp6_pto2.genruntimeconfig.cache
